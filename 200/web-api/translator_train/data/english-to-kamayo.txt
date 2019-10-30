@@ -1,0 +1,1762 @@
+﻿good morning	madayaw na adlaw
+good afternoon	madayaw na hambong
+good evening	madayaw na dum
+slide	lignas
+stumble	yatomba
+good	madayaw
+bad	maraat
+morning	adlaw
+evening	dum
+useless	way kapuslanan
+broken	daot 
+good bad	madayaw maraat
+sick	yadaot
+abandon	pyasagdan 
+afternoon	hambong
+dark	maduggum 
+analyze	kwentaha
+angry	yadaman
+animal	mananap
+answer	tubag
+i miss you	imingaw da ako kanmo
+how are you	kumusta dakaw
+what the problem	unan problema
+where are you	hain dakaw
+dont speak	ayaw pagteyab
+what are you doing	gauno kaw
+i dont know	wa ako kasayud
+dont touch	ayaw paghawed
+i would like	gusto ko
+what time is my flight	unan oras yang kanak larga
+what airline am i flying	unan airline ko na mularga
+where is my gate	hain yang kanak gate
+where is the restroom	hain yang kasilyas 
+how much does the magazine cost	pila yang magazine gasto
+are meals included	na kaiban sang pagkaan
+may i have something to eatdrink	pwde ba makakamang ng pagkaanmainom
+may i purchase headphones	pwede ako mupalit ng headphones
+what time is it	unan da oras
+i have a connecting flight	awon kanak isa connecting fight
+i will be here for 	adi lang ako
+i am visiting family	yabisita ako sang pamilya
+i am staying at	adi sa ako perme
+excuse me	paagi kadali lang
+im sorry	wako tuyoa
+where is the	hain yang
+how much	pila
+thank you	way problema
+goodbye	mukadtu da ako
+youre welcome	way problema
+whats your name	unan pangan mo
+where are you from	taga hain kaw
+how old are you	pila da edad mo
+can i use your phone	pwede ako makagamit ng phone mo
+help	tabang
+speak	pagtiyab
+restroom	kasilyas
+what does mean	unan pasabot 
+do you have	awon kanmu
+call you later	tawag kaw balik
+how about lunch	unohun tungod sang paniudtu
+be right back	balik lang ako
+call me now	tawag kanak doon
+how is your day	kumusta yang adlaw mo
+long time no see	bayabaya sa duon pakaw yag pakita
+i want to go	gusto ko mukadto
+where is	hain yang
+how far is	mano kalayo yang
+leave me alone	biyae da ako
+how do i get to	unhon ko pagkamang ng
+here you go	ngadi kaw
+nice to meet you	madayaw na yagkita kita
+i speak a little	magtiyab ako ng gamay na
+i dont understand	wa ako sabot
+i dont speak	dili ako magtiyab
+i dont like	dili ako
+im fine and you	ok lang ako ikaw
+whats up	daw unan yang up
+how do you say	unohun mo pag tiyab
+could you repeat that	pwede mayo balikon
+how much money	pila yang kwarta
+could i see the room	pwede ko matanaw yang kwarto
+call the police	tawag sang police
+did you here me	idungog mo ako
+good day	madayaw na adlaw
+face	bayho
+a few	gamay lang
+a long time ago	dugay da na panahon
+a round trip ticket	pabalik na tiket
+across from the post office	sang atubangan ng post office
+am i pronouncing it correctly	pagstorya ko sane ng tama
+and you	tapos ikaw
+are there any concerts	awon mga bisan unanmnna nga mga palabas
+are they the same	parihas da ngene
+are you allergic to anything	awon kanmo allergy daw wa
+are you busy	awon kanmu ehimo
+are you coming this evening	mukadi kaw doon na dum
+what is your name	unan pangan mo
+what is your lastname	unan apeledo mo
+are you attend their wedding	mukadto kaw sang kasal nilan
+are you going to take a bus	mukadto kaw para magkamang ng sakyanan
+are you hungry	egutom kaw
+are you okay	ok kaw lang
+are you sick	yadaot kaw
+are you waiting for someone	awon itagadan mo
+are you working tomorrow	awon trabaho mo kisum
+as soon as possible	madali da panahon
+at 3 oclock	sa alas trees
+at 7 oclock	sa alas sheti
+at what time did it happen	unan oras yahitabo
+a little	medyo
+about 300 kilometers	tungod sang tree hundred kilometro
+all day	tibuok adlaw
+amy is john girlfriend	si amy uyab ni john
+anything else	bisan unan
+are you afraid	yahadluk kaw
+are you american	american kaw
+are you comfortable	komportable kaw
+are you free tonight	bakante kaw doon na dum
+are you going to help her	mukadtu kaw para lang tabangan yaan
+are you here alone	adi kaw way kaiban
+are you married	menyo dakaw
+are you ready	andam dakaw
+are you sure	sigurado kaw
+are you working today	awon trabaho mo doon na adlaw
+are your children with you	yang kanmu mga anak kanmu
+at 3 oclock in the afternoon	sang alas tress ng hambung
+at 5th street	sang ika5 ng kanto
+at 7 oclock in the morning	sang alas shite ng adlaw
+at what time	unan oras
+be careful driving	pagdaya pag drive
+be quiet	yataup
+bring me my shirt please	hatagan naay kanak yang bado ko palihog
+be careful	pagdaya
+behind the bank	sang likod ng mga  bank
+business is good	negosyo madayaw
+break a leg	madaot yang isa ka seke
+call me	tawag kanak
+can i access the internet here	pwede ako makagamit ng internet ngadi
+can i bring my friend	pwede ko dahun yang kanak barkada
+can i help you	pwede takaw tabangan
+can i see your passport please	pwede ko matanaw passport mo palihog
+can i try it on	pwede ko testingan ngene sang
+can it be cheaper	pwede ngene mas barato
+edi heres your oder	 edi da yang kanmo order
+hes not in right now lapit yaan muabot	
+hes in the kitchen	yaan sang kusina
+hes very annoying	makalagutay gayud yaan
+his family is coming tomorrow	yang kanaan pamilya muabot da kisum
+his son	kanaan anak na usog
+how are you paying	kumusta yag bayad
+how are your parents	kumusta yang mga ginikanan mo
+how do i use this	unuhon paggamit sane
+how do you pronounce that	unohon pag pronounce saan
+how do you spell it	unohon pag spell sane
+how far is it	mano kalayo ngene
+how long does it take by car	mano kadugay maabot yang sakyanan
+how long have you been here	mano dakaw ka dugay ngane
+how long have you lived here	mano kaw kadugay maghuya ngane
+how long is it	mano kadugay ngane
+how long will it take	mano ngene kadugay
+how many children do you have	pila yang anak mo
+how many languages do you speak	pila ka linggwahe yang kanmu inistoryahan
+how many people	pila kautaw
+im very busy	madaigay ihimu ko
+beautiful	gwapa
+how much do i owe you	pila yang utang kita
+how much does this cost	pila yang magasto sang
+how much is it	tagpila ngene
+how much is this	tagpila ngene
+how much money do you make	tagpila yang kwarta mo ihimo
+how much would you like	mano kadaig yang gusto mo
+how tall are you	mano kaw kataas
+how was the trip	kumusta yang byahe
+hit the books	hit yang mga libro
+i agree	yasugot ako
+i believe you	yatuo ako kanmu
+i came with my family	yaabot ako sang kanak pamilya
+i cant hear you clearly	dili takaw madungog ng madayaw 
+i dont care	way labot ko
+i dont have a girlfriend	bway kanak uyab 
+i dont know how to use it	wa ako kasayud daw unohun paggamit sane
+i dont like him	dili ko yaan gusto
+i dont mind	dili ako babag
+i dont speak very well	dili ako makastorya ng matarong
+i dont understand what your saying	wa ako makasabot unan itiyab mo
+i dont want it	dili ko yaan kinahanglan
+i dont want to bother you	dili ko gusto makaabala kanmo
+i forget	kyalingawan ko
+i give up	dili dako kaya
+i have a lot of things to do	madaig kanak himuonun
+i have one in my car	awon kanak isa ka sakyanan
+i havent been there	wa ako ngadto
+i havent had lunch yet	wapa ako maniudto
+i know	sayud ako
+i like it	gusto ko ngene
+i like you	gusto takaw
+i like to watch	gusto ko mutanaw
+i lost my watch	yawa yang kanak relo
+i need a doctor	kinahanglan ko ng doctor
+i need to go now	kinahanglan dako mupanaw doon
+i remember	yahunahunaan ko
+i speak two languages	magtiyab ako ng duha ka enistoryahan
+i think it tastes good	seguro ngene yang lame madayaw
+i think so	pagtuo ko
+i understand now	yasabot da ako doon
+i wish i had one	awon gaw kanak isa
+id like a room	gusto ko ng kwarto
+id like a table near the window	gusto ko ng lamisa na lapit sang bentana
+id like to buy a phone card please	gusto ko mupalit ng phone card
+id like to go home	gusto dako mukadto bay
+id like to go the store	gusto ko mukadto sang tindahan
+id like to send a fax	gusto ko magpada ng fax
+if you like it i can buy more	kung gusto mo ngene madaig kanak paliton
+ill be right back	mubalik lang ako
+ill call you on friday	mutawag ako kanmu pagka bernes
+ill come back later	kamangon ko balik 
+ill have the same thing	kamangun ko yang pareho na butang
+ill take it	kamangon ko ngene
+ill teach you	tudluan takaw
+im cleaning my room	yaglempyo ako ng kanak kwarto
+im coming right now	muabot da ako doon
+im going home in four days	mukadto ako bay pagka upat ka adlaw
+im good	ako madayaw
+im just kidding	yagtinunto lang ako
+im leaving tomorrow	mupanaw ako kisum
+im lost	pilde ako 
+im not afraid	dili ako mahadluk
+im not busy	way kanak ehimo
+im not married	dili ako menyo
+im not sure	dili ako segurado
+im single	isa da ako
+im sorry	pasensya da
+im tired	ikapoy da ako
+im very busy i dont have time now	madaigay ihimu ko way time ko
+im waiting for you	yag tagad ako kanmo
+is everything ok	ok lang yang tanan
+is it cold outside	adi matignaw sang gawas
+is it ready	andam da
+is that ok	ok yaan
+its mine	kanak ngene
+its very cold today	matignaway doon na adlaw
+i dont time right now	way time ko doon
+i have a headache	masakit yang kanak o
+i have two sister	awon kanak duha ka lumon na bubay
+i like her	gusto ko yaan
+i love you	gihigugma ako kanmo
+i need to go home	kinahanglan dako muoli
+i trust you	yasalig ako kanmu
+i want to show you something	kinahanglan ko ngene ipakita kanmu
+id like single room 	gusto ko isa kwarto
+id like to use the internet	gusto ko mugamit ng internet
+im a teacher	maistra ako
+im happy	yalipay ako
+im hungry	igutom ako
+im married	menyo da ako
+im ready	andam da ako
+im sick	ilagnat ako
+just a moment	doon da
+lets go	pan da
+more than that	labaw pa saan
+my daughter is here	kanak anak na bubay adi
+my cell phone doesnt work	yang kanak cell phone wada andar
+my father has been there	yang kanak ama adtu
+next time	sunod
+no problem	way problema
+no thank you	ayaw salamat
+nobody is helping us	way utaw yatabang kanami
+not yet	wa pa
+open the door	abrehe yang pertahan
+speak english	pagtiyab ng english
+wait for me	tagade ako
+please call me	palihog tawage ako
+please sit down	palihog enkod
+speak more slowly	magtiyab kaw ng madugay
+please tell me	palihog storya kanak
+write it down	suwatan
+right there	adto
+right here	adi
+see you tonight	makitan mo malaw dum
+should i wait	dapat ako magtagad
+someone does that for me	isa ka utaw para kanak
+someone is coming	isa ka utaw muabot
+start the car	paandara yang sakyanan
+thanks for your help	salamat san kanmu tabang
+that smells bad	na mabaho
+thats a good school	yaan magana na skwelahan
+thats enough	tama da
+thats it	yaan ngawon
+thats right	tama yaan
+thats wrong	mali yaan
+there are many people here	madaig mga utaw ngane
+try it on	suota sa
+try to say it	tistinge para ing storya ngene 
+take it outside	magkamang sang gawas
+thank you very much	salamat gayud
+thanks for everything	salamat sang tanan
+that looks old	na bayho karaan
+whats your last name	unan apeledo mo
+when are you coming back	kino kaw mubalik
+when are you leaving	kino kaw mupanaw
+when did this happen	kano yahitabo
+when is your birthday	kino yang birthday mo
+when will he be back	kino yaan mubalik
+when would you like to meet	kung kino mayo gusto magkita 
+where can i rent a car	hain ako pwede mag renta ng sakyanan
+where did you go	hain kaw yakadto
+where did you learn it	hain mo ngene yatigaman
+where do you want to go	hain mo gusto mukadto
+where is he	hain da yaan
+where is she from	taga hain yaan
+where were you	hain yang kanmo
+wheres the mail box	hain yang mail box
+wheres the pharmacy	hain yang pharmacy
+which one is better	hain yang isa yang pinakamadayaw
+which one is the best	hain yang isa yang pinakamadayaw
+which road should i take	hain yang mga karsada dapat magdugay
+who are they	seno selan
+who are you	seno kaw
+who is that	seno yaan
+who taught you that	seno gatudlo kanmo
+who was that	seno ngawon
+whos calling	seno yatawag
+why did you say that	nasa yatiyab mo ngawon
+will you remind me	ikaw pahinumdumon mo ako
+would you like to buy this	gusto mo ngene palitun
+would you like to watch tv	gusto mo mutanaw ng tv
+were late	kami late
+what are you going to do tonight	unan himuon mo malaw dum
+what are your hobbies	unan yang kanmu hilig
+what color is that car	unan yang color saan na sakyanan 
+what day of the week is it	unan na adlaw na simana doon
+what did you do yesterday	unan ihemu mo kagabe
+what do you do for work	unan yang trabaho mo
+what do you recommend	unan yang mairekumenda mo
+what do you want to buy	unan gusto mo paliton
+what does this mean	unan yang pasabot sane
+what does this word mean	unan yang pasbot sane na inistoryahan
+what happened	unan yahitabo
+what is that	unan yaan
+what is todays date	unan yang petsa doon
+what school did you go to	unan yang skwelahan mo mukadto 
+what size	unan size
+what time did you go to sleep	unan oras kaw mukadto matug
+what time do you go to work everyday	unan oras mo mukadto sang trabaho adlawadlaw
+what time does it start	unan oras ngene magsugod
+what time does the store open	unan oras abrihon yang store
+what time is it	unon da oras
+what would you like a drink	unan yang gusto mo inumun
+whats in it	unan yang sang sud sani 
+whats the matter	unan problema
+whats the phone number	unan yang mga numero ng telepono
+whats the temperature	unan yang temperatura
+whats todays date	unan petsa doon
+whats wrong	unan problema
+whats your email address	unan yang kanmu email address
+whats your favorite movie	unan kanmo paborito nga salida
+when are they coming	kino ngene mangabot
+when are you leaving	kino kaw mupanaw
+when does the bank open	pag mugana yang bangko abrehan
+when will it be ready	kin o mag andam
+where are the tshirts	hain yang mga bado
+where are you going	kain kaw mukadtu
+where did it happen	hain dapit yahitabo
+where did you learn english	hain kaw yatigam pag english
+where did you put it	hain kaw ibutang ngene
+where do you live	hain kaw yaghuya
+where do you work	hain kaw yagtrabaho
+where does your wife work	hain yang kanmu asawa yagtrabaho
+where is he from	tagahain yaan
+where is it	hain ngawon
+where is my shirt	hain yang kanak bado
+where is the airport	hain dapit yang airport
+where is the bus station	hain dapit yang bus station
+where is there an atm	hain yang awon atm
+where would you like to go	hain mo gusto mukadto
+wheres the closest restaurant	hain yang mas malapit na restaurant
+wheres the mearest hospital	hain dapit yang mearest hospital
+wheres the post office	hain dapit yang post office
+which is better	kung hain mas madayaway
+which one do you want	hain saan yang gusto mo
+which one	hain saan
+which school does he go to	kung hain yang mga skwelahan para yaan mukadto sang
+who are you looking for	sino yang ihanap mo
+who is it	sino yang sang
+who sent this letter	sino yagpada sani na suwat
+who taught you	sino gatudlo kanmu
+who was your teacher	sino sang awon yang kanmu maistra
+who would you like to speak to	sino gusto mayo makastorya
+whos that man over there	sino yang mga utaw ngadtu dapit
+why are you laughing	nasa yag hiko kaw
+why did you do that	nasa ihimu da mo
+why not	nasa dili
+will you put this in the car for me	ingbutang kaw ngadi sud sang sakyanan para kanak
+will you take me home	ikaw magkamang kanak sang bay
+would you ask him to come here	gusto mo gaw na makakadi yaan
+would you like coffee or tea	gusto mo coffee or tea
+would you like some wine	gusto mo ng mainum
+would you like to go for a walk	gusto mayo magpanaw panaw
+would you like to rent a movie	gusto mo magrenta ng pelikula
+would you like water or milk	gusto mo ng tubig o gatas
+yes really	oo tinuod
+you have a very nice car	awon kanma maganahay na kotse
+you look tired	pagtanaw mo ikapoy
+your children are very well behaved	yang kanmu mga anak madayaw agmatingon
+your house is very nice	yang kanmu bay maganahay
+youre beautiful	gwapa kaw
+youre smarter than him	ikaw yang matigam kaysa kanaan
+you look like my sister	tanaw pareha ng kanak lumon na bubay
+you speak english very well	magstorya  kaw ng english tinuod madayaw
+your daughter	yang kanmu anak na bubay
+youre right	tama kaw
+youre very nice	madayaw kaw gayud
+mine	kanak
+eat	kaan
+sleep	turo
+enter	panik
+in love	yahimaya
+walk	panaw
+touch	hawid
+hear	yadungog
+forget	yakalingaw
+drunk	yahingaw
+hello	oy
+oh no	ayaw intawon
+no way	dili puyde
+go away	layas
+go away	layas
+goodbye	pagayoayo dinhi
+shut up	hilom
+shut up	hilom diha
+hurry up	pagdali
+lets go	ta na
+lets go	tana
+come here	mari ka
+come here	mari ka
+im sorry	pasayloa ko
+im tired	gikapoy ko
+i love you	gihigugma ta ka
+im hungry	gigutom ko
+were fair	makiangayon man mi
+were fine	maayo man mi
+were here	dia ra mi
+were home	nia mi sa balay
+were late	ulahi mi
+were lazy	tapolan mi
+were lost	nasaagmi
+were poor	kabos mi
+were rich	dato mi
+were safe	luwas mi
+were sick	masakiton mi
+were sunk	naunlod mi
+were tidy	himos mi
+were weak	huyang mi
+what a day	grabeng adlawa
+whats new	unsay bago
+who are we	si kinsa ba kita
+who did it	kinsay mibuhat ato
+who has it	kinsay naay ingato
+who is tom	kinsa nang tom
+who is she	kinsa na siya
+who phoned	kinsay nanawag
+who saw me	kinsa toy nakakita nako
+who stayed	kinsay nabilin
+who talked	kinsay misulti
+who was it	kinsa gani to
+who yelled	kinsay misiyagit
+whos here	kinsay nia
+whos next	kinsay sunod
+whos that	kinsa na
+wood burns	ang kahoy mosilaob
+you can go	adto kaw
+you did it	nabuhat mo
+you got it	sakto ka
+you may go	puyde ka nang mohawa
+you missed	sipyat ka
+dont worry	ayawg kaguol
+how are you	unsa na man
+how are you	kumusta
+im thirsty	giuhaw ko
+who are you	kinsa diay ka
+a bug bit me	gipaak ka ba og insekto
+are you sure	segurado ka
+i am curious	buot ko masayod
+i dont know	ambot
+i want to go	moadto na ko
+are you happy	malipayon ka ba
+are you tired	gikapoy ka
+he got caught	gidakop siya
+we have a dog	duna miy iro
+where are you	hain ka karon
+are you hungry	gigutom ka
+can i help you	tabangan ta ka na
+do you love me	imo ba kong gihigugma
+happy new year	bulahang bagong tuig
+leave me alone	pasagdi ko
+please join me	palihog nunot kanako
+please move on	sibog na intawon
+are you married	minyo ka ba
+congratulations	pahalipay
+congratulations	pasidungog
+how old are you	pilay imong edad
+i have two cats	duhay akong iring
+please continue	padayon palihog
+please sit down	palihog lingkod
+please visit me	duawa ko palihog
+they wont know	dili sila kabalo
+do you live here	taga dinhi ka
+i hate chemistry	dili ko ganahan og kemistri
+im not a doctor	dili ko doktor
+what do you want	unsay imong gusto
+whats your name	unsay imong ngalan
+i have a headache	gilabdan ko
+i was not pleased	wala ko mahimuot
+please just leave	palihog hawa
+please stop there	hunong diha palihog
+what is your name	unsay imong ngalan
+where do you live	diiy inyo
+i dont understand	wala ko kasabot
+please call a taxi	kuha palihog og taxi
+please come hungry	ari intawon nga gutom
+please dont leave	ayaw intawon hawa
+please give me one	tagai kog usa bi
+please wait for me	palihog og hulat nako
+what are you doing	nagunsa ka
+where are you from	disa ka
+why are you crying	nganong mihilak ka
+i will be back soon	mobalik ra ko dayon
+please come quickly	pagdali intawon
+please fix the iron	itarong ra ko sa plancha
+please have a drink	tagay palihog
+please just go away	palihog hawa lang
+please sell me that	ibaligya intawon na ngari nako
+the engine is noisy	kasaba ba sa motor
+tom decided to wait	nakahukom si tom nga magpaabot
+where are you going	asa ka moadto
+i want to please you	gusto ko malipayon ka
+please dont hang up	palihog ayawg ibutang
+please dont hurt me	ayaw intawon ko pasakiti
+please drop in on us	hapit intawon namo
+please eat something	palihog ayaw usag kaon
+please read it again	basaha palihog og usob
+tom didnt act alone	dili to inusarang gibuhat ni tom
+how long did you stay	unsa ka kadugaya didto
+it was nobodys fault	walay sadan sa nahitabo
+please dont tell tom	ayaw intawon tugani si tom
+she is afraid of cats	mahadlok siyag iring
+i dont have any money	wala na jud koy kwarta
+i dont speak japanese	dili ko makahinapon
+wait for a few seconds	wetsa
+which film did you see	asang salidahay imong gitanaw
+you asked for my advice	nagpakitambag ka kanako
+do you know how to do it	kamao ka
+i dont like you anymore	wala na koy gusto nimo
+im living in boston now	napuyo ko ron sa boston
+the book is on the table	toa ang libro sa lamesa
+you be the judge of that	ikay hukom niana
+i have to go to the toilet	kinahanglang moadto ko sa pansayan
+the archer killed the deer	napatay sa tigpana ang lagsaw
+tom was taken into custody	gibilanggo si tom
+what are you talking about	unsay buot mong ipasabot
+i shouldnt have logged off	wala lang usa ko mobiya
+there is a meeting tomorrow	may tigom ugma
+why dont you come visit us	nganong dili mo man nuon mi duawon
+i dont want to go to school	dili ko moeskuyla
+thank you youre welcome	salamat walay sapayan
+the new store opens next week	sunod semana moabri ang bagong tindahan
+i dont want to wait that long	dili ko gustog ing ana kadugayg pinaabot
+i woke up at five this morning	alas singko sa buntag ko mibangon
+ill call you when i get there	tawgan ta ka inig abot nako didto
+the bus driver opened the door	gibuksan sa drayber sa bus ang lukob
+he doesnt have to go to school	dili siya kinahanglang moadto sa tunghaan
+i dont know how to contact you	ambot unsaon ta ka pagpahibalo
+i dont know what to do anymore	wala na ko masayod unsa pay buhaton
+fortyeight sailors are on board	nagsakay ang kapatag walo ka tripulante
+will you send up a bucket of ice	pagdala diri sa taas og usa ka baldeng hyelo
+behave yourself during my absence	pagbinuotan baya samtang wala ko
+does your girlfriend like flowers	ganahan ba og bulak ang imong uyab
+does your girlfriend like flowers	ganahan ba og bulak ang imong nobya
+tom didnt answer marys question	wala tubaga ni tom ang pangutana ni mary
+unexpected results were announced	mga wala damhang linugdangan kadto toy gipahibalo
+can you recommend a good restaurant	may ikasugyot ka bang nindot nga kananan
+they added a woman to the committee	gidugangan nila og babaye ang komitiba
+he is content with his present state	igo na niya ang kasamtangang kahimtang
+tom talked to mary about the robbery	gisuginlan ni tom si mary bahin sa kawat
+tom talked to mary about the robbery	gisuginlan ni tom si mary bahin sa tulis
+acid rain is not a natural phenomenon	dili kinaiyanhon ang makaluksaw nga ulan
+the hostages will be released tomorrow	ugma buhan ang mga gipakitaming
+the rocket is in orbit around the moon	milibotlibot ang kweti sa bulan
+i dont want any advertising on my website	dili ko gustong may adbertisment dinhi sa akong websayt
+its better if i drove you all the way home	maayo pang ihatod ta lang hinuon ka ning kotse taman sa inyo
+tom served 30 years for second degree murder	mialagad og 30 ka tuig si tom alang sa ikaduhang degri sa pagpatay
+the crowd went wild when the news was announced	nagubot ang mga tawo dihang gibalita to
+tom wanted mary to know that he didnt hate her	buot ni tom masayran ni mary nga wala siya maitok niini
+tom wanted mary to know that he didnt hate her	buot ni tom masayran ni mary nga wala siyay kaitok niini
+have you already carried the boxes up to the attic	gidala mo na ba ang mga kahon didto sa arkoba
+burj khalifa is currently the tallest skyscraper in the world	burj khalifay kasamtangang kinahabogang dakbalay sa kalibotan
+burj khalifa is currently the tallest skyscraper in the world	burj khalifa ang kasamtangang kinalayogang dakbalay sa tibuok kalibotan
+martin luther king jr fought for civil rights for africanamericans by teaching nonviolence	pinaagi sa pagtudlo sa pagka dili madinagmalon nakigbisog si martin luther king jr alang sa katungod nga sibil sa mga amerkanong may dugong afrikanhon
+other sidefar aside	sa pikas na parte
+fall	yahuog
+laugh	hikowo
+cry	tiyaho
+follow	gihud
+talk	tiyab
+prepare	yagahigay
+big	badi
+very big	badihay
+beautiful	gwapa
+very beautiful	gwapahay
+small	tabibi
+very small	tabibiay
+fast	kusogay
+heavy	bugatay
+ugly	maraat
+very ugly	maraatay
+greedy	gawot
+cold	tignaw
+i dont know	inday
+that is	itun
+good	madayaw
+ugly	maraat
+how much	pila
+child	isu
+old person	hinuod
+nose	irong
+face	bayho
+hand	alima
+foot	siki
+thigh	paa
+son	isu son
+help	tabang
+speaker	mangabugaray
+speaker	presentor
+mat	hikam
+pregnant	kabdus
+coins	sinsilyo
+blanket	sabanas
+fire	atun
+hand	alima
+image	bayhu
+broom	baslay
+play	duwa
+bite	banga
+wash	laba
+pounch	sumbag
+harvest	garab
+kiss	haruk
+climb	katkat
+catch	labyog
+trim	lampas
+hold	hawid
+pick	kamang
+kick	sipa
+fall	kagtang
+push	tud
+generous	parahatag
+brave	isog
+funny	katawanan
+evil	satanas
+rich	kwartahan
+poor	pubri
+shy	sipogon
+ugly	raat
+dirty	ripa
+clean	mahinlu
+handsome	guapo
+smiling	ngisi
+beautiful	gwapa
+slouch	bayuku
+tense	alingasa
+short	hayupu
+tall	haba
+big	badi
+skinny	kaig
+small	gamay
+deep	lawum
+wide	hawag
+roud	limun
+straight	tulid
+spicy	harang
+salty	parat
+sour	aslum
+sweet	tamis
+bitter	pait
+harug	halfcook
+cold	tignaw
+hot	pasu
+soft	humuk
+hard	gahi
+dry	tahay
+smooth	hanut
+rought	gurudgurud
+wet	wetbasa
+shinny	kinlaw
+silent	hilum
+loud	kusug
+noisy	saba
+awful	libag
+tingog	waray
+whisper	hagas
+multiple	hamuk
+plenty	hamuk
+nasty	bastus
+waiting	huya
+alchoholic	parahubog
+horrible	kahadukan
+artisimple	waray
+doubtfully	duda
+rainy	uran
+dangerous	delikado
+angry	daman
+hurt	sakitan
+selfish	awaan
+scary	kahadlukan
+confused	libog
+tired	kapuy
+embarass	sipog
+afraid	haduk
+lazy	puluhu
+meter	metrosan
+centimeter	sintimetro
+decimeter	disimetro
+inch	purgada
+yard	yarda
+gram	gramo
+word construction	pagporma ng mga titiyabon
+open	abre
+reap harvest	ani
+read	basa
+leave	biya
+keep	dayaw
+catch	dakop
+slap	dapay
+spank	dagpi
+bring	dara
+climb	dàg
+draw	drowing
+kiss	harok
+clean	hinlo
+spill	hukad
+sing	kanta
+grate	kagud
+hop	lakso
+jump	lugpat
+swim	langoy
+roam	burdahi
+bath	sugbo
+buy	palit
+walk	panaw
+dance	sayaw
+close	sira
+wear	sukbot
+write	suwat
+teach	tuon
+cook	tugna
+dive	tugpa
+study	tuon
+beautiful	mahusay
+ugly	maraat
+big	mabakka
+fast	mabandos
+greedy	gawot
+short	hayupo
+hand	alima
+dust	abo
+deep well	atabay
+lip	abil
+father	ama
+flame	atùn
+monkey	am
+mouse	ambaw
+i have	aron
+creek	awug
+mirror	espiho
+sticky	espiso
+front	entrada
+tail	ikug
+dog	idu
+its here	di
+child	su
+nose	irung
+pick	ipu
+new born	impis
+armpit	irok
+lunch	islum
+shout	yak
+beetle	organo
+gumbo	okra
+shrimp	orabang
+gentleman	olitawo
+charcoal	oring
+grandfather	ompu
+owl	okang
+ sour fruit	owabana
+tooth	unto
+move	uson
+rain	uran
+brain	utok
+cut	utôd
+boy	usug
+girl	bobay
+dress	bado
+big	badi
+boat	baroto
+eggplant	biringhinas
+paddle	bugsay
+mouth	baba
+wave	bawod
+face	bayhu
+leg	bitiis
+flower	burak
+turmeric	duwaw
+dried fish	daing
+plenty	daig
+farm	daya
+lady	daraga
+night	dùm
+forest	gurangan
+greedy	gawot
+dilapidated	gapô
+brash	garas
+caviar	ginamos
+root	gamut
+mosquito	hiram
+ant	hurmigas
+short	hayupo
+caterpillar	hantataru
+chair	bangko
+dress	bado
+curtain	kurtina
+bed	katre
+frying pan	karaha
+knife	kutsilyo
+tshirt	kamiseta
+rain coat	kapote
+short pants	kampupoy
+coconut gritter	kagudan
+stove	kalan
+keetle	kaldero
+necklace	kulentas
+table	lamesa
+lamp	lamparilya
+scrub	lampaso
+umbrella	payong
+plate	plato
+rosary	rosaryuhan
+watch	relo
+shoes	sapatos
+slippers	tsinelas
+chopping board	tadtadan
+cup	tasa
+laddle	sandok
+bowl	panaksan
+paper	papel
+bracelet	purseras
+basin	planggana
+iron	plantsa
+three	tres
+three	tò
+ten	dyis
+ten	napulo
+eleven	onsi
+twelve	dosi
+thirteen	tresi
+fourteen	katorse
+fifteen	kinsi
+sixteen	disisayes
+seventeen	disisite
+eighteen	disiotso
+nineteen	disinuybi
+twenty	bayente
+twentyone	bayenteuno
+twentytwo	beyentedos
+twentythree	beyentetres
+twentyfour	beyentekwatro
+twentyfive	beyentesingko
+twentysix	bayentesayes
+twentyseven	bayentesite
+twentyeight	bayenteotso
+twentynine	bayentenoybe
+thirty	trayenta
+thirtyone	trayentay uno
+thirtytwo	trayentay dos
+thirtythree	trayentay tres
+thirtyfour	trayentay kwatro
+thirtysix	trayentay says
+thirtyseven	trayentay site
+thirtyeight	trayentay otso
+thirtynine	trayentay nuybe
+forty 	kwarenta
+fortyone	kwarentay uno
+fortytwo	kwarentay dos
+fortythree	kwarentay tres
+fortyfour	kwarentay kwatro
+fortyfive	kwarentay singko
+fortysix	kwarentay says
+forty seven	kwarentay syete
+fortyeight	kwarentay otso
+fortynine	kwarentay nuybe
+fifty	singkwenta
+fiftyone	singkwentay uno
+fiftytwo	singkwentay dos
+fiftythree	singkwentay tres
+fiftyfour	singkwentay kwatro
+fiftyfive	singkwentay singko
+fiftysix	singkwentay says
+fiftyseven	singkwentay syete
+fiftyeight	singkwentay otso
+fiftynine	singkwentay nuybe
+sixty	saysenta
+sixtyone	saysentay uno
+sixtythree	saysentay tres
+sixtyfour	saysentay kwatro
+sixtyfive	saysentay singko
+sixtysix	saysentay says
+sixtyseven	saysentay site
+sixtyeight	saysentay otso
+sixtynine	saysentay nuybe
+seventy	sitenta
+seventyone	sitentay uno
+seventytwo	sitentay dos
+seventythree	sitentay tres
+seventyfour	sitentay kwatro
+seventyfive	sitentay singko
+seventyseven	sitentay site
+seventyeight	sitentay otso
+seventynine	sitentay nuybe
+eightyone	otsentay uno
+eightytwo	otsentay dos
+eightythree	otsentay tres
+eightyfour	otsentay kwatro
+eightyfive	otsentay singko
+eighty six	otsentaysays
+eightyseven	otsentay site
+eightynine	otsentay nuybe
+ninetyone	nubentay uno
+ninetytwo	nubentay dos
+ninetythree	nubentay tres
+ninetyfour	nubentay kwatro
+ninetyfive	nubentay singko
+ninety six	nubentaysays
+ninetyseven	nubentay site
+ninetyeight	nubentay otso
+ninetynine	nubentay nuybe
+one hundred one	cento ono
+twohundred	dos centos
+two hundred one	dos centos uno
+threehundred	tres centos
+fourhundred	cwatro centos
+fivehundred	kenyentos
+five hundred one	kenyentosono
+onethousand	lebo esaka lebo
+one thousand five hundred	melkenyentos
+twothousand	dos mel
+threethousand	tres mel
+fourthousand	cwatro mel
+fivethousand	cenco mel
+sixthousand	sayes mel
+seven thousand	cete mel
+eight thousand	otso mel
+nine thousand	noybe mel
+ten thousand	dyes mel
+small	tabibi
+big	badi
+long	taas
+short	hayupo
+wide	lugang
+tight	huot
+kilo	kilo
+liter	litro
+pound	kabugaton
+ounce	ounce
+deciliter	desilitro
+decigram	desigramo
+foot	pi
+kilometer	kilometrahe
+mile	milya
+addition	pagdugang
+subtraction	pagkuha
+more than	sobra ng isa
+fewer than	kuwang ng isa
+the same as	parehas
+equals	parehas
+number	numero
+syllables	silaba
+sentence	mga dapog ng tiyabonon
+noun	pangaran
+directions	mga giya
+story telling	pag estorya
+adjective	panhitsura
+parts of the book	parte ng libro
+pronoun	alilis ng pangran
+verb	hisnang
+antonym	sukwahi na titiyabon
+homonym	pareha ang tanog
+action song	pagkanta na galihok
+role playing	pagdrama
+pantomime	paglihok na way saba
+poetical jouse in verse	pagtubag tubag
+games	hampang
+poem	balak
+symbols	simbolo
+voice	boses
+move	lihok
+chant	pakanta
+instruments	instrumento
+beat	kumpas
+scale	iskala
+measurement	sukod
+high	hataas
+low	hagagpa
+pause	paghunong naa
+play	tukar
+pulse	pulso
+tone	tono
+half	katunga
+pitch	katasonon ng boses
+bass	baho
+demonstrate	ipakita
+demonstrate	ilihok
+guitar	gitara
+piano	piyano
+gong	agong
+violin	biyulin
+note	nota
+melody	melodiya
+harmony	harmoniya
+rhythm	ritmo
+lyric	liriko
+sound	tanog
+rest	pahuway
+sing	kanta
+count	ihapon
+identify	kilahon
+one less	kuwang ng isa
+one more	dugangan ng isa
+place value	kahimutangan ng numero
+fewer than	gamay ng isa
+as many as	magkapareha ang kadaig
+compare	ikumpara
+compare	itandi
+greatest	badihay
+skip counting	lakaw na pagihap
+coins	kwarta na metal
+bills	kwarta na papel
+peso sign	simbolo ng kwarta
+repeat	utrohon
+write	isuwat
+addition	pandugang
+sum	katibukan
+putting together	pagtibutibuon
+plus sign	simbolo ng pandugang
+join	pagsumpayon
+subtraction	pagkuha
+subtrahend	mga ihap na ingkuhaan
+minuend	mga ihap na kinuhaan
+difference	tubag sa kinuhaan
+taking away	kuhaon
+left	yabilin
+minus	kuhaan
+equivalent	parehas
+equal	kaparehas sa
+not equal	wara magkapareha
+introduce	ipakila
+oneself	kaugalingon
+difference	kalainan
+family	pamilya
+talk about	ingpagahisgutan
+including	apil
+including	hasta
+community	komunidad
+member	ginsakupan
+number	numero
+compare	ingkomparar
+cooperation	pagtabangan
+participation	pagtabangan
+trust	pagsarig
+acceptance	pagdawat
+deal	pagdara
+unity	paghugpong
+modeling	pagpasunod
+bithdate	adlaw ng pagkautaw
+origin	igikanan
+symbols	mga simbolo
+traditions	mga pamatasan
+belief	tinuuhan
+power	gahum
+meaning	buot ipasabot
+describe	pagtanaw
+describe	paghulagway
+charitable	manggihatagon
+strength	kakusgan
+weaknesses	kaluya
+good health	madayaw na panglawas
+sincerity	katungod
+obedience	masinundanon
+nationalism and globalism	pagpangga sa kanato nasud hasta kalibutan
+concern for environment	pagatiman sa palibot
+order	plastado
+member	ginsakupan
+older	hinuod
+true	tinuod
+family	pamilya
+valuable	importante
+love	paghigugma
+parent	ginikanan
+obedient	masinundanon
+family	pamilya
+healthy	mahimsog
+cleanliness	pagkalimpyo
+responsibility	obligasyon
+ability	abilidad
+sincerity	katungod
+happen	panghitabo
+misunderstanding	wara magkasinabot
+faith	pagtoo
+god	diyos
+god	ginoo
+hope	paglaum
+sincerity	katungod
+love	pagpangga
+charity	maluloyon
+respect	pagtahud
+belief	pagtuo
+goodness	kadaywan
+truth	katinuodan
+fever	ihilantan
+diarrhea	ipaintawon
+headache	sakit ang uwo
+crippled	dili makapanaw
+anemia	kuwang ng dugo
+insomnia	lisud makaturog
+lice	kuto
+scabies	yakaras ang palis
+flu	trangkaso
+boil	buyutot
+mute	puwa
+clean	mahinlo
+ear wax	atuli
+head	uwo
+face	bayhu
+hair	buhok
+eye	mata
+nose	irong
+mouth	baba
+lips	abil
+stomach	tiyan
+forearm	bisig
+hand	alima
+shoulder	abaga
+waist	hawak
+palm	pad
+heel	tikod
+forehead	tuktok
+nail	kuko
+leg	bitiis
+knee	tuhod
+hip	bakagwang
+elbow	siko
+neck	liug
+chest	dagarha
+parts	parte
+movement	lihok
+shape	porma
+nonlocomotor	wara maghisnang
+locomotor	gakahisnang
+balance	balanse
+balance	parehas
+transfer	ibalhin
+demonstrate	pagpakita
+team	grupo
+perform	ipakita
+imitate	sundon
+partcipate	maapil
+turn left	pakawa
+turn right	patoo
+materials	mga materyales
+step forward	abante
+step backward	atras
+march	martsa
+hop	ugpo
+about face	atubang sa likod
+dance	sayaw
+body	lawas
+exercise	ehersisyo
+forward march	panaw
+clap	pakpak
+inhale	ginhawa pasulod
+exhale	ginhawa pagawas
+slow	mahinay
+speed	paspas
+fast	mapaspasay
+singing	pagkanta
+fable	estorya mahitungod sa mananap
+folktale	estorya mahitungod sa mananap
+ancestor	mga kaumpuan
+tail	ikog
+thought	utok
+idea	utok
+speech	pagtiyabon
+vomit	suka
+sand	buhangin
+water	tubig
+river	suba
+to break	buwagbuwagon
+to sweep	silhigon
+to die	mapatay
+to give	maghatag
+to go	makadto
+to hide	matago
+to look for	maghanap
+to laugh	makahikuwo
+to love	magpangga
+to squeeze	pugaon
+to burn	sunugon
+to cough	maghako
+to allow	tugutan
+to look after	bantayan
+to take care	atimanon
+to see	tanawon
+to hear	panalingahan
+to hold	hawidan
+catch	hawidan
+to marry	magmenyo
+to clean	maglimpyo
+to eat	kumaan
+to bite	bangaun
+to drink	maginum
+to come	yaabot
+to arrive	pagabot
+to create	himuon
+to cut	utdon
+to count	yagihap
+to kill	patya
+to learn	katigam
+to jump	ugpo
+to dry	ipatahay
+to fight	yakigaway
+to hit	pasakitan
+to harvest	pagani
+to plant	pagtanom
+to hunt	mangayamay
+to fish	mangisdaay
+to play	paghampang
+to fear	yahadlok
+to be afraid	yahadlok
+to breath	pagginhawa
+to fall	mahuwog
+to rub	paghirug
+to pull	birahon
+to run	pagdagan
+to sit	pagingkod
+to stand	pagindog
+to sew	pagtahe
+to know	pagsusi
+to be sick	yagkasakit
+to be healthy	madayaw ang lawas
+to call	sabiha
+to call someone	sabiha ang mga ngaran
+to sing	pagkanta
+to dance	pagsayaw
+to talk to nonsense	may hinungdan na estorya
+to swell	ya hubag
+to lie down	magkuwang
+to sleep	maturog
+to push	ituwod
+shove	ituwod
+to stab	dunggab
+to float	palutawon
+to swim	langoy
+to forbid	pagdiri
+to turn	lingi
+to think	maghunahuna
+to tell	tiyabon
+to say	paglaong
+to throw	irabak
+to wash	paghugas
+to wash	hugasi
+to win	madaug
+to work	magtrabaho
+to walk	panawin
+to make something	tibuon
+to wait for	magtagad
+to show off	maghambog
+fool around	maghambog
+light	maganay
+very hot	mapasuay
+hot	mapasu
+cool	matignaw
+cold	matignaway
+married	aroy asawa
+unmarried	way asawa
+light in weight	maganay ang timbang
+sharp	mahait
+dull	habol
+rotten	gabok
+fresh	presko
+insane	yaglibog
+confused	yaglibog
+smart	brayitay
+clever	brayitay
+long	pagkahabaay
+tall	pagkahabaay
+short	hayupo
+fat	mataba
+thin	kaig
+wide	kalapad
+narrow	gamay
+round	limon
+correct	insakto
+bumpy	lubaklubak
+hard	magahi
+soft	mahutok
+down there	dawom
+on top of	sa ibabaw sa
+inside	sa suod
+in the middle	sa tunga
+at the front end	sa una
+at the back end	sa huri
+yesterday	kagabi
+day before yesterday	yaagi na adlaw
+day after tomorrow	sunod na adlaw
+far in the past	sa una
+far in the future	madugay pa
+near past	harapit
+early morning	pagkakisum
+morning	masusum
+midday	islum
+afternoon	hambong
+evening	duwom
+night	duwom
+yesterday	kagabi
+happily	yalipayay
+sadly	mamingawon
+slowly	hinayhinay
+hishersits	kanaan
+we exclusive	kami
+we inclusive	kita
+you many	kamo
+you one	ikaw
+jail	prisuhan
+prison	prisuhan
+unsophisticated person	simple na utaw
+relative from mother side	kalumunan
+egg	itlog
+animals wild	maisog na hayop
+animals domesticated	binuhi na mananap
+eye	mata
+axe	hatsa
+banana	saging
+baby	isu
+decoration	dekorasyon
+dog	idu
+barrel	barel
+lie	kabakakan
+feather	balhibo
+earth	lupa
+ground	lupa
+fat	mantika
+grease	mantika
+hole	tuhang
+supplies	tagiya
+possessions	tagiya
+food	pagkaan
+heart	kasingkasing
+cloud	panganod
+clothes	bado
+house	bay
+blood	dugo
+bone	pusa
+jungle	kagurangan
+day	adlaw
+tree	puno ng kahoy
+worm	uod
+leaf	dahon
+custom	batasan
+garden	hardin
+person	utaw
+money	kwarta
+money	kwaliga
+medicine	tambaw
+old person	hinood
+rope	pisi
+cloth	isa ka bado
+woman	bobay
+wife	usog
+husband	bana
+wife	asawa
+son	anak na usog
+daughter	anak na bobay
+infant	masuso
+small child	isu
+young woman	daraga
+young man	ulitawo
+aunt motherƒs side	tiya
+aunt fatherƒs side	tiya
+uncle motherƒs side	tiyo
+uncle fatherƒs side	tiyo
+grandmother mothers side	ompo
+grandmother fatherƒs side	ompo
+grandfather motherƒs side	ompo
+grandfather fatherƒs side	ompo
+sisterinlaw	bayaw
+brotherinlaw	bayaw
+motherinlaw	ugangan na bobay
+fatherinlaw	ugangan na usog
+beach	kilid ng baybay
+coast	kilid ng baybay
+knife	kutsilyo
+moon	buwan
+star	bituon
+mountain	saka
+field	tamnanan
+fire	aton
+seed	lisu
+posts	poste
+friend	amigo
+fear	hadok
+fish	isda
+fruit	bunga
+liver	atay
+bird	langgam
+diarrhea	ipalintawon
+flower	burak
+sky	kalangitan
+heaven	kalangitan
+birdƒs wing	paku ng langgam
+rice	kanon
+rat	ambaw
+frog	palaka
+root	gamut
+road	karsada
+sun	suga
+sickness	sakit
+disease	sakit
+dance	sayaw
+ashes	abu
+skin	palis
+bark of a tree	palis sang kahoy
+scratch	kawot
+smell	mabaho
+odor	mabaho
+smoke	abuwo
+snake	sawa
+salt	asin
+sea	dagat
+saucepan	bandihado
+spade	pala
+stick	stick
+stone	bato
+poem	balak
+fable	isturya mahitungod sa mananap
+folktale	isturya mahitungod sa mananap
+ancestor	mga kaumpuan
+tail	ikog
+speech	pagtiyabon
+vomit	suka
+sand	buhangin
+water	tubig
+river	suba
+wind	hangin
+clean	malimpyo
+dirty	maripa
+ugly	maraat
+beautiful	gwapa
+beautiful	mahusay
+good	madayaw
+acceptable	madawat gayod
+bad	maraat
+full	puno
+almost full	hapit mapuno
+empty	way suod
+almost empty	halos way suod
+poor	pobre
+wealthy	sapian
+wealthy	dato
+huge	pagkabadihay
+enormous	pagkabadihay
+big	badi
+mediumsized	isakto ra kabadi
+small	gamay
+tiny	gamayay
+very small	gamayay
+heavy	mabugat
+not heavy	maganay
+rice grain	humay
+ax	hatsa
+butterfly	kabakaba
+crab	kagang
+eyebrow	kiray
+eel	kasili
+crawl	kanap
+tomorrow	kisùm
+boiled	layob
+abaca fiber	lanot
+lamp	lamparilya
+jump	lugpat
+bird	langgam
+picture	letrato
+angry	langot
+eye	mata
+dark	maduggum
+dim	maduggum
+bitter gourd	margoso
+good	madayao
+market	mercado
+ripe	magurang
+elder sister	mmagûrang
+elder sister	mmagûrang
+coconut	niyog
+balite tree	nunok
+winnower	nigo
+young carabao	nati
+cow	nati
+gum	ngilò
+smile	ngirit
+open	nganga
+hut	payag
+coconut shell	payâ
+bone	pusâ
+coin	puya
+grilled	pasâg
+mud	pasâk
+shout	piyagit
+broken	rasâ
+throw	rabak
+damaged	ranâs
+ugly	raât
+dirt	ripâ
+haircut	raspa
+snatch	rabnot
+grab	rabnot
+blanket	sabanas
+cover	saklob
+comb	sudlay
+wound	samad
+belt	sinturon
+grass	sagbot
+lemon	suwa
+net	sibôt
+dipper	tabu
+midrib	tikug
+sleep	turog
+head cover	turong
+slingshot	tirador
+grain	tipasi
+kiln	tapahan
+taste	tilaw
+sugarcane	tubô
+cry	tiyaho
+earthworm	wati
+witch	wakwak
+loose	wangwang
+throw	wagit
+yoke	yugo
+spilled	yahukad
+processed candy milk	yima
+foot	yapating
+yoyo	yoyo
+crooked	bawuk
+corrugated	gurodgurod
+circle	limon
+round	limon
+broken line	utodutod
+slant	kiling
+sunday	domingo
+monday	lunes
+tuesday	martes
+wednesday	mirkules
+thursday	huybis
+friday	birnis
+january	enero
+february	pebrero
+march	marso
+april	abril
+june	hunyo
+july	hulyo
+august	agusto
+september	septembre
+october	oktubre
+november	nobembre
+evening	dum
+night	dum
+morning	sùm
+midday	alasdose
+noon	alasdose
+afternoon	hambong
+rainy	tinguran
+sunny	masuga
+fair	mapawa
+homesick	imingaw
+happy	yalipay
+angry	yadaman
+worry	yaurika
+weak	maluya
+fever	ihilantan
+excruciating pain	ihapdusan
+skirt	saya
+blouse	blawos
+chemise	kamison
+undershirt	sando
+polo shirt	kamisita
+jacket	dyaket
+short pants	katsupot
+underwear	carsonsilyo
+pant trouser	karsones
+gown	toga
+spinach	alogbate
+bitter gourd	ampalaya
+horseradish	kalamunggay
+tomato	kamatis
+chili pepper	sili
+taro	gabi
+camote tops	ganas
+squash	kalabasa
+petchay	petchay
+cabbage	repolyo
+jute	saluyot
+eggplant	talong
+swamp cabbage	kangkong
+lemon grass	tangad
+string beans	sitaw
+onion	sibuyas
+chinese orange	limonsito
+guava	bayabas
+pomelo	bungon
+cashew	kasoy
+star apple	kaymito
+durian	durian
+papaya	kapayas
+lanzones	lansones
+coconut	niyog
+peanut	mani
+mango	manga
+jackfruit	nangka
+pineapple	penya
+yellow	malàg
+blue	asol
+violet	bayulet
+green	grin
+black	itum
+orange	orens
+red	puwa
+pink	rosas
+resort	bakasyunanan
+storage	bodega
+canteen	kantina
+chapel	kapilya
+church	simbahan
+classroom	klasrum
+clinic	klinika
+court	husayanan
+school	eskuylahan
+terminal	hununganan
+airport	tagpahanan
+hotel	bày pahuwayanan
+eatery	kananan
+restaurant	kananan
+library	basahanan
+office	opisina
+hospital	tambawanan
+factory	hinanganan
+bakery	bekeri
+parking area	parkinganan
+plaza	plasa
+jail	prisuhan
+store	tindahan
+market	merkado
+barangay	baryo
+terrace	diskanso
+comfort room	intawunan
+kitchen	kusina
+bedroom	suwod
+bed	kuwangan
+stairs	hagdan
+labatory	hugasan
+living room	sala
+window	bintana
+shoulder	abaga
+forehead	tuktok
+hand	alima
+thumb	bakù
+hips	bakagwang
+lower leg	bitiis
+hair	buhok
+bone	pusa
+arms	bukton
+tongue	dila
+chest	dagarha
+waist	hawak
+armpit	irok
+pupil	himuslaho
+point finger	tudo
+eyebrow	kiray
+pinky finger	kingking
+nails	kukuhon
+buttocks	labot
+sole	lapalapa
+neck	liug
+eyes	mata
+tooth	unto
+thigh	paa
+skin	palis
+palm	pad
+eyelash	piruk
+foot	siki
+elbow	siko
+breast	susu
+chin	kuku
+ear	talinga
+nape	tangguan
+tummy	tiyan
+heel	tikud
+knee	tuhod
+vein	ugat
+head	ùwo
+lips	abil
+face	bayhu
+child	isu
+girl	bobay
+girl	bobay
+inlaw	bayaw
+grandmother	ompo
+father	ompo
+cousin	katagsa
+brother	lumon
+sister	lumon
+father	amâ
+mother	ina
+relatives	kalumunan
+eagle	agila
+rat	ambaw
+mice	kuyuso
+grasshopper	apan
+pig	baboy
+cow	baka
+crocodile	buaya
+lobster	banagan
+butterfly	kabakaba
+horse	kabayo
+bat	kabog
+goat	kandeng
+carabao	karabaw
+dog	ido
+fish	isda
+deer	usa
+wild pig	ihaas
+dove	kalapati
+bird	langgam
+ant	mamang
+turtle	bao
+beetle	organo
+centipede	uhipan
+worm	wati
+lizard	butiki
+mosquito	hiram
+firefly	aninipot
+spider	lawalawa
+cabinet	aparador
+hot	mapaso
+dirty	maripa
+dark	maduggom

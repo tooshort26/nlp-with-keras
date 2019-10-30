@@ -1,0 +1,8 @@
+Flask == 0.12.2
+gevent
+keras
+numpy
+nltk
+h5py
+pillow
+https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-2.0.0-cp35-cp35m-win_amd64.whl
